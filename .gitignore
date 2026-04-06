@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Pipeline working directories (large files)
+.old
+.support
+video/*
+processing/*
+output/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Files
+*.txt
+*.mp4
+*.md
